@@ -2,7 +2,8 @@
     font-family: 'CothamSans';
     src:  local('CothamSans'), url('./fonts/CothamSans.otf') format('opentype'),
     url('./fonts/CothamSans.eot') format('embedded-opentype'), url("./fonts/CothamSans.woff") format('woff'),
-    url('./fonts/CothamSans.svg') format('svg');
+    url('./fonts/CothamSans.svg') format('svg'),
+    url('./fonts/CothamSans.ttf') format('ttf');
     font-display: swap;
     font-style: normal;
   }
