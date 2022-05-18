@@ -4,6 +4,7 @@
     url('./fonts/CothamSans.eot') format('embedded-opentype'), url("./fonts/CothamSans.woff") format('woff'),
     url('./fonts/CothamSans.svg') format('svg');
     font-display: swap;
+    font-style: normal;
   }
 
   .log{
