@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'CothamSans';
-    src:  local('CothamSans'), url("./fonts/CothamSans.woff") format('woff');
-  
-    font-display: swap;
-    font-style: normal;
+    src:  local('CothamSans'), url('./fonts/CothamSans.woff') format('woff'), 
+    url('./fonts/CothamSans.woff2') format('woff2');
   }
 
