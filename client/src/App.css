@@ -2,3 +2,7 @@
     font-family: 'CothamSans';
     src:  local('CothamSans'), url('./fonts/CothamSans.otf') format('opentype');
   }
+
+  .log{
+    font-family: 'CothamSans';
+  }
