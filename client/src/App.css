@@ -5,10 +5,9 @@
     url('./fonts/CothamSans.svg') format('svg'),
     url('./fonts/CothamSans.ttf') format('ttf'),
     url('./fonts/CothamSans.woff2') format('woff2');
-    font-display: swap;
     font-style: normal;
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
   }
 
