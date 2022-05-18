@@ -59,7 +59,7 @@ function Home(props) {
   return (
     <Fragment>
       <Container>
-          <div className="log"> POD.COM <br></br>
+          <div className="log"> PODd.COM <br></br>
           PODCAST <br></br> SEARCH               SITE</div>
      
         <div className="line">
