@@ -1,0 +1,222 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color:black;
+}
+
+
+.line {
+  display: flex;
+  justify-content: center;
+}
+
+
+.navbar {
+  height: 100px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+  font-family: 'Helvetica';
+  font-size: 20px;
+
+}
+
+.search-results {
+  background-color: #7b8e39;
+}
+
+
+.welcome-text {
+  font-family: 'Helvetica';
+  font-size: 20px;
+  line-height: 1;
+  color: white;
+  display: flex;
+  justify-content: center;
+  z-index: 100;
+  text-align: justify;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 10px;
+  margin-bottom: 100px;
+ 
+}
+
+
+a {
+  text-decoration: none!important;
+  color: white;
+  font-family: 'Helvetica';
+}
+
+a:hover {
+  color: rgb(102, 157, 190);
+}
+
+
+.card {
+  display: flex;
+  margin: 25px 10px 25px 10px;
+  justify-content: center;
+  max-width: 280px;
+  background-color:  black;
+  padding: 30px;
+  border: 0.5px solid white;
+  color: white;
+;}
+
+.single-card {
+  display: flex;
+  margin: 25px 10px 25px 10px;
+  justify-content: center;
+  max-width: 280px;
+  background-color:  black;
+  padding: 30px;
+  border: 1px solid white;
+  color: white;}
+
+.episode-card {
+  display: flex;
+  margin: 10px 5px 10px 5px;
+  justify-content: center;
+  max-width: 280px;
+  border-radius: 15px;
+  background-color:  black;
+  padding: 10px;
+  border: 2px solid white;
+  color: white;
+}
+
+.card-body {
+  font-family: 'Helvetica';
+  line-height: 1.2;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+}
+
+.card-img-top {
+  display: flex;
+  justify-content: center;
+}
+
+
+ { /* .card-img-top {
+  height: 258px;
+  overflow: hidden;
+  align-items: baseline;
+} */}
+
+.card-title {
+  font-family: 'Helvetica';
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.row-input-group {
+  display: flex;
+  width: 50vw;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 15px;
+
+}
+
+.card-buttons{
+  justify-content: center;
+  display: flex;
+  font-family: 'Helvetica'
+  
+}
+
+.row {
+justify-content: center;
+
+}
+
+.btn{
+ background-color:transparent;
+ color: white;
+ margin: 4px;
+ z-index: 10;
+ font-family: 'Helvetica';
+ border-color: white;
+ border-radius: 18px;
+}
+
+
+.log{
+  padding-top: 70px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 110px;
+  height: fit-content;
+  font-size: 100px;
+  line-height: 1;
+  background-color:  black;
+  font-family: 'CothamSans';
+  color: white;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+
+}
+
+.search-results {  
+  border-radius: 25px ;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.footer-content {
+  height: 100px;
+  color: white;
+
+}
+
+.mode-btn{
+  display: flex;
+  justify-content: center;
+  width: auto;
+  margin-bottom: 6px;
+}
+
+.copyright {
+ margin: 15px;
+}
+
+.nav-right {
+display: flex;
+align-items: center;
+margin-left: 12px;
+}
+
+.save-button {
+width: auto;
+margin-left: 12px;
+}
+
+.form-control {
+  background-color: black;
+  color: white;
+  z-index: 10;
+  opacity: 1;
+  border: 1px solid white;
+}
+
+.line {
+    color: white;
+  }

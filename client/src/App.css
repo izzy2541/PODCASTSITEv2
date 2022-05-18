@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'CothamSans';
+    src:  local('CothamSans'), url('./fonts/CothamSans.otf') format('opentype');
+  }
