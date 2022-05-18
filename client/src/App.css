@@ -1,4 +1,14 @@
-@font-face {
+ @font-face {
+    font-family: 'CothamSans';
+    src:  local('CothamSans') url("./fonts/CothamSans.woff") format('woff'),
+    url('./fonts/CothamSans.woff2') format('woff2');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+  }
+
+/*
+  @font-face {
     font-family: 'CothamSans';
     src:  local('CothamSans') url('./fonts/CothamSans.otf') format('opentype'),
     url('./fonts/CothamSans.eot') format('embedded-opentype'), url("./fonts/CothamSans.woff") format('woff'),
@@ -10,5 +20,5 @@
     font-display: swap;
     -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: antialiased;
-  }
+  } 
 
