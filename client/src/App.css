@@ -1,16 +1,2 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
-/*
-  @font-face {
-    font-family: 'CothamSans';
-    src:  local('CothamSans') url('./fonts/CothamSans.otf') format('opentype'),
-    url('./fonts/CothamSans.eot') format('embedded-opentype'), url("./fonts/CothamSans.woff") format('woff'),
-    url('./fonts/CothamSans.svg') format('svg'),
-    url('./fonts/CothamSans.ttf') format('ttf'),
-    url('./fonts/CothamSans.woff2') format('woff2');
-    font-style: normal;
-    font-weight: normal;
-    font-display: swap;
-    -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: antialiased;
-  } 
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
