@@ -1,12 +1,4 @@
- @font-face {
-    font-family: 'CothamSans';
-    src:  local('CothamSans') url("./fonts/CothamSans.woff") format('woff'),
-    url('./fonts/CothamSans.woff2') format('woff2');
-    font-style: normal;
-    font-weight: normal;
-    font-display: swap;
-  }
-
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 /*
   @font-face {
     font-family: 'CothamSans';
